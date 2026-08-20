@@ -11,7 +11,7 @@ require (
 	github.com/dustin/go-humanize v1.0.1
 	github.com/ergochat/readline v0.1.3
 	github.com/fatih/color v1.19.0
-	github.com/godbus/dbus/v5 v5.2.0
+	github.com/godbus/dbus/v5 v5.2.2
 	github.com/gokyle/twofactor v1.0.1
 	github.com/google/go-cmp v0.7.0
 	github.com/google/go-github/v61 v61.0.0
@@ -37,7 +37,7 @@ require (
 	github.com/twpayne/go-pinentry/v4 v4.0.1
 	github.com/urfave/cli/v3 v3.10.1
 	github.com/xhit/go-str2duration/v2 v2.1.0
-	github.com/zalando/go-keyring v0.2.6
+	github.com/zalando/go-keyring v0.2.8
 	github.com/zeebo/blake3 v0.2.4
 	go.yaml.in/yaml/v3 v3.0.4
 	golang.org/x/crypto v0.55.0
@@ -49,7 +49,6 @@ require (
 )
 
 require (
-	al.essio.dev/pkg/shellescape v1.6.0 // indirect
 	codeberg.org/tslocum/cbind v0.1.6 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
 	filippo.io/hpke v0.4.0 // indirect
